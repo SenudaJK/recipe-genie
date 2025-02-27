@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- IM/2021/009 - Y.A.D.S.C.Basnayake -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="8dp"/>
+    <stroke android:color="#1E1E1E"
+        android:width="1dp"/>
+
+</shape>
